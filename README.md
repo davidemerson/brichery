@@ -1,8 +1,6 @@
 # Brichery
 Bridge-Archery
 
-BRICHERY:
-
 ## Supplies
 - Four persons, or persons in integer multiples of four.
 - Archery Target (3" @ 10m)
