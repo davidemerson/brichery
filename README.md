@@ -1,5 +1,5 @@
 # Brichery
-Bridge-Archery
+[Bridge](https://en.wikipedia.org/wiki/Contract_bridge)-Archery
 
 ## Supplies
 - Four persons, or persons in integer multiples of four.
@@ -10,7 +10,7 @@ Bridge-Archery
 - Laser Pistol
 
 ## Play
-- [Bidding proceeds as normal](https://en.wikipedia.org/wiki/Contract_bridge). Once you know who will be the dummy under that contract, ask the dummy to bid a type (Bow or Pistol), and a hit rate (1-13).
+- [Bidding proceeds as normal](https://en.wikipedia.org/wiki/Bidding_system). Once you know who will be the dummy under that contract, ask the dummy to bid a type (Bow or Pistol), and a hit rate (1-13).
 - Opposing partnership has the option to double the dummy's bid.
 - Dummy, if doubled, has the option to redouble.
 - The dummy gets up and readies themselves for one shot per trick.
