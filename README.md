@@ -8,6 +8,7 @@
 - Recurve Bow
 - 13 Arrows w/ Field Tips
 - Laser Pistol
+- Optional : a wood-fire over which to shoot at least the arrows
 
 ## Play
 - [Bidding proceeds as normal](https://en.wikipedia.org/wiki/Bidding_system). Once you know who will be the dummy under that contract, ask the dummy to bid a type (Bow or Pistol), and a hit rate (1-13).
